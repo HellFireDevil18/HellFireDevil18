@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **hellfiredevil@chiheisen.in**
+- 📫 How to reach me **inbox@hellfiredevil.ru**
 
 - ⚡ Fun fact **I like Sublime Text more than VS Code**
 
