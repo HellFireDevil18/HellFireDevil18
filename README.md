@@ -1,57 +1,69 @@
-# <div align="center">👋 Hi, I'm Priyanshu Dey</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;Telegram+Bot+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="assets/header.png" alt="HellFireDevil18 Banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://graph.org//file/6527e10cd3523ce053165.png" alt="Coding" width="400"/>
+  <h2>👋 Hi, I'm Priyanshu Dey</h2>
+  <p><b>Python Developer | Telegram Bot Developer | Open Source Contributor</b></p>
+  
+  <p>
+    I'm a passionate developer currently working on <b>HyperLinkX</b> and diving deep into <b>Pyroblack, Telethon, and PTB</b>.
+    <br />
+    Always looking to collaborate on interesting <b>Telegram Bots</b> and <b>APIs</b>.
+  </p>
+
+  <a href="mailto:inbox@hellfiredevil.ru">
+    <img src="https://img.shields.io/badge/Email-inbox%40hellfiredevil.ru-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </div>
 
-## 🚀 About Me
-
-- 🔭 Currently working on **HyperLinkX**
-- 🌱 Learning **Pyroblack, Telethon, PTB**
-- 👯 Looking to collaborate on **Telegram Bots, APIs**
-- 💬 Ask me about **Python**
-- 📫 Reach me at **inbox@hellfiredevil.ru**
-- ⚡ Fun fact: **I'm a lazy dev**
-
-## 📊 GitHub Stats
+<br />
 
 <div align="center">
-  <img src="https://gitstats.vercel.app/api?username=hellfiredevil18&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=hellfiredevil18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HellFireDevil18&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=hellfiredevil18&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://gitstreaks.vercel.app?user=HellFireDevil18&theme=radical" alt="GitHub Streak" />
+  <h2>🛠️ Tech Stack</h2>
+  
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="Languages" />
+  
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,react,nextjs&theme=dark" alt="Frameworks" />
+  
+  <h3>Databases & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,aws,gcp,azure,vercel,heroku&theme=dark" alt="Cloud" />
+  
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,photoshop&theme=dark" alt="Tools" />
 </div>
 
-## 🏆 GitHub Trophies
+<br />
 
 <div align="center">
-  <img src="https://gittrophy.vercel.app/?username=hellfiredevil18&row=2&column=4&theme=radical" alt="GitHub Trophies" />
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
+  <h2>🤝 Connect With Me</h2>
   <a href="https://telegram.me/HellFireDevil">
-    <img src="https://img.shields.io/badge/-telegram-blue?logo=telegram&logoColor=white" alt="Telegram" width="120">
+    <img src="https://img.shields.io/badge/Telegram-@HellFireDevil-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://reddit.com/u/HellFireDevil18">
-    <img src="https://graph.org//file/391509cb12d23aded7d82.png" alt="Reddit" width="120">
+    <img src="https://img.shields.io/badge/Reddit-u%2FHellFireDevil18-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
 </div>
 
-## 🛠️ Languages and Tools
+<br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,firebase,heroku,mongodb,mysql,postgres,photoshop,ubuntu,debian,fastapi,vercel,cloudflare,nginx,supabase,github,aws,azure,gcp" />
+  <img src="https://komarev.com/ghpvc/?username=hellfiredevil18&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
-## 📈 Profile Views
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hellfiredevil18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="assets/footer.png" alt="Footer Banner" width="100%" />
 </div>
