@@ -21,9 +21,9 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=hellfiredevil18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://gitstats.vercel.app/api?username=hellfiredevil18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HellFireDevil18&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HellFireDevil18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=hellfiredevil18&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
